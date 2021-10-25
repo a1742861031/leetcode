@@ -13,6 +13,7 @@ public class LeetCode02 {
         ListNode node2 = new ListNode(5);
         LeetCode02 leetCode02 = new LeetCode02();
         ListNode head = leetCode02.addTwoNumbers(node1, node2);
+        System.out.println(head);
     }
     public static int carry = 0;
 
