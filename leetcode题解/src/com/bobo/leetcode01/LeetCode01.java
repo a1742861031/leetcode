@@ -4,14 +4,16 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * @author yanbo
  * @Description LeetCode第一题：两数之和
  * @Date 2021/10/22 13:36
  * @Created by bobo
  */
 public class LeetCode01 {
     public int[] twoSum(int[] nums, int target) {
-        int[] result = {-1, -1}; //返回的结果
-        if(nums.length<2){
+        //返回的结果
+        int[] result = {-1, -1};
+        if (nums.length < 2) {
             return result;
         }
         Map<Integer, Integer> map = new HashMap<>();

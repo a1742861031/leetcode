@@ -35,6 +35,7 @@ public class Offer24 {
                 arr.add(head.next.val);
                 head = head.next;
             }
+            return head;
         }
     }
 }
