@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ac96c31-6398-4395-a3c1-abf9f9e7e355" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="6ac96c31-6398-4395-a3c1-abf9f9e7e355" name="Changes" comment="7-6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode题解/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode题解/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode01/LeetCode01.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode01/LeetCode01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode题解/src/com/bobo/offer/Offer24.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode题解/src/com/bobo/offer/Offer24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode题解/com/bobo/leetcode01/LeetCode01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode题解/com/bobo/leetcode01/LeetCode01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode题解/com/bobo/leetcode05/Method2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +53,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.10857763" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bobo.LeetCode876.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode557.Solution" />
       <module name="leetcode题解" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bobo.LeetCode876.*" />
+          <option name="PATTERN" value="com.bobo.leetcode557.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode142.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode977.Solution" />
       <module name="leetcode题解" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bobo.leetcode142.*" />
+          <option name="PATTERN" value="com.bobo.leetcode977.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +84,24 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bobo.LeetCode21.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode189.Solution" />
       <module name="leetcode题解" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bobo.LeetCode21.*" />
+          <option name="PATTERN" value="com.bobo.leetcode189.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode283.Solution" />
+      <module name="leetcode题解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.leetcode283.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,24 +110,11 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bobo.LeetCode206.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode334.Solution" />
       <module name="leetcode题解" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bobo.LeetCode206.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bobo.LeetCode21.Solution2" />
-      <module name="leetcode题解" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bobo.LeetCode21.*" />
+          <option name="PATTERN" value="com.bobo.leetcode334.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -148,8 +142,27 @@
       <updated>1634880679202</updated>
       <workItem from="1634880680566" duration="10879000" />
       <workItem from="1656897671374" duration="15631000" />
-      <workItem from="1657070094011" duration="2371000" />
+      <workItem from="1657070094011" duration="4557000" />
+      <workItem from="1657157155842" duration="4219000" />
+      <workItem from="1657259132590" duration="2995000" />
+      <workItem from="1658232274589" duration="3725000" />
+      <workItem from="1658362977862" duration="643000" />
+      <workItem from="1659316798039" duration="649000" />
+      <workItem from="1659580507256" duration="10135000" />
+      <workItem from="1659921096810" duration="5523000" />
+      <workItem from="1661924498615" duration="5044000" />
+      <workItem from="1662002709530" duration="6521000" />
+      <workItem from="1662084754577" duration="11339000" />
+      <workItem from="1662265755953" duration="1469000" />
     </task>
+    <task id="LOCAL-00001" summary="7-6">
+      <created>1657073444657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657073444657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +178,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="7-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="7-6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -183,6 +200,71 @@
           <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/LeetCode206/Solution.java</url>
           <line>22</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode142/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/LeetCode409/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode202/Solution2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode14/Solution.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode16/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode24/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode24/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode24/Solution2.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode53/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode189/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode283/Solution.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode283/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode557/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/LeetCode205/Solution.java</url>
