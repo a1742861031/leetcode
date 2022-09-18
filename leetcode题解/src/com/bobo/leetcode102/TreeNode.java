@@ -2,20 +2,20 @@ package com.bobo.leetcode102;
 
 /**
  * @author by bobo
- * @Description ¶þ²æÊ÷Êý¾Ý½á¹¹
+ * @Description ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ý½á¹¹
  * @Date 2022/7/8 1:59 PM
  */
 
 
 public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
 
     TreeNode() {
     }
 
-    TreeNode(int val) {
+    public TreeNode(int val) {
         this.val = val;
     }
 

@@ -28,7 +28,6 @@ public class Solution {
             }
             map.put(s.charAt(end),end);
         }
-
         return ans;
     }
 
