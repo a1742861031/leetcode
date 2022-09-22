@@ -7,6 +7,7 @@ package com.bobo.leetcode53;
  */
 public class Solution {
     public int maxSubArray(int[] nums) {
+        //贪心
         int pre = 0;
         int res = nums[0];
         for (int num : nums) {
@@ -35,8 +36,21 @@ public class Solution {
         return ans;
     }
 
+    /**
+     * 贪心方法解决
+     */
+    public int maxSubArray2(int[] nums) {
+        int ans = nums[0];
+        int cur = 0;
+        for (int num : nums) {
+            cur = Math.max(cur + num, num);
+            ans = Math.max(ans, cur);
+        }
+        return ans;
+    }
+
     public static void main(String[] args) {
-        int[] arr = new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4};
-        System.out.println(new Solution().maxSubArray(arr));
+        int[] arr = new int[]{1, 2};
+        System.out.println(new Solution().maxSubArray2(arr));
     }
 }
