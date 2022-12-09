@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ac96c31-6398-4395-a3c1-abf9f9e7e355" name="Changes" comment="11-23">
+    <list default="true" id="6ac96c31-6398-4395-a3c1-abf9f9e7e355" name="Changes" comment="11-30">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode题解/com/bobo/leetcode808/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode题解/com/bobo/leetcode808/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode题解/com/bobo/leetcode99/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode题解/com/bobo/leetcode99/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +73,82 @@
       <recent name="com.bobo.binary_tree" />
       <recent name="com.bobo.leetcode617" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution (2)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode113.Solution" />
+      <module name="leetcode题解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.leetcode113.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode1805.Solution" />
+      <module name="leetcode题解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.leetcode1805.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode530.Solution" />
+      <module name="leetcode题解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.leetcode530.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode501.Solution" />
+      <module name="leetcode题解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.leetcode501.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bobo.leetcode112.Solution" />
+      <module name="leetcode题解" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bobo.leetcode112.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (4)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -171,7 +247,13 @@
       <workItem from="1669425498360" duration="3538000" />
       <workItem from="1669517469011" duration="10391000" />
       <workItem from="1669618732525" duration="13000" />
-      <workItem from="1669778449338" duration="21000" />
+      <workItem from="1669778449338" duration="1145000" />
+      <workItem from="1669854518938" duration="5948000" />
+      <workItem from="1669943612048" duration="14504000" />
+      <workItem from="1670163420572" duration="6319000" />
+      <workItem from="1670220916503" duration="65000" />
+      <workItem from="1670380380615" duration="6164000" />
+      <workItem from="1670490587843" duration="4278000" />
     </task>
     <task id="LOCAL-00001" summary="7-6">
       <created>1657073444657</created>
@@ -306,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669166290464</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="11-30">
+      <created>1669778488257</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1669778488257</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,7 +429,8 @@
     <MESSAGE value="11-17" />
     <MESSAGE value="11-19" />
     <MESSAGE value="11-23" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-23" />
+    <MESSAGE value="11-30" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-30" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -409,6 +499,31 @@
           <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode813/Solution.java</url>
           <line>20</line>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode106/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode654/Solution.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode112/Solution.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode113/Solution.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetcode题解/src/com/bobo/leetcode1805/Solution.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
