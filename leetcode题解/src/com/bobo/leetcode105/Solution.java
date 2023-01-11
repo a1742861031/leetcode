@@ -26,9 +26,8 @@ public class Solution {
             return null;
         }
         //前序的left节点就是root节点
-        int preorderRoot = preLeft;
-        TreeNode root = new TreeNode(preorder[preorderRoot]);
-        Integer inOrderRoot = indexMap.get(preorder[preorderRoot]);
+        TreeNode root = new TreeNode(preorder[preLeft]);
+        Integer inOrderRoot = indexMap.get(preorder[preLeft]);
         int size = inOrderRoot - inOrderLeft;
         root.left = buildSubTree(preorder, inorder, preLeft + 1, preLeft + size, inOrderLeft, inOrderRoot - 1);
         root.right = buildSubTree(preorder, inorder, preLeft + size + 1, preRight, inOrderRoot + 1, inOrderRight);
